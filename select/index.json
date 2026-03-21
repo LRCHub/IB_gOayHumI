@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "闇に降る雨",
-  "base_artist": "Sheena Ringo",
-  "createdAt": "2026-03-06T10:27:51.330233Z",
+  "base_artist": "椎名林檎",
+  "createdAt": "2026-03-21T01:21:45.927381Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -77,20 +77,28 @@
       "path": "select/09_闇に降る雨_Shiina_Ringo.lrc"
     },
     {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "闇に降る雨",
+      "artist": "Shiina Ringo (椎名 林檎)",
+      "has_synced": true,
+      "path": "select/10_闇に降る雨_Shiina_Ringo_(椎名_林檎).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "闇に降る雨 (A Driving Rain in Darkness)",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/11_闇に降る雨_(A_Driving_Rain_in_Darkness)_椎名林檎.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "闇に降る雨",
       "artist": "椎名 林檎",
       "has_synced": false,
       "path": "select/pl_01_闇に降る雨_椎名_林檎.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "闇に降る雨",
-      "artist": "椎名 林檎",
-      "has_synced": false,
-      "path": "select/pl_02_闇に降る雨_椎名_林檎.txt"
     }
   ]
 }
